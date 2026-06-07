@@ -1,0 +1,40 @@
+{
+  "token2idx": {
+    "<pad>": 0,
+    "<sos>": 1,
+    "<eos>": 2,
+    "<unk>": 3,
+    "good": 4,
+    "night": 5,
+    "how": 6,
+    "are": 7,
+    "you": 8,
+    "i": 9,
+    "love": 10,
+    "goodbye": 11,
+    "morning": 12,
+    "see": 13,
+    "later": 14,
+    "hello": 15,
+    "thank": 16
+  },
+  "idx2token": {
+    "0": "<pad>",
+    "1": "<sos>",
+    "2": "<eos>",
+    "3": "<unk>",
+    "4": "good",
+    "5": "night",
+    "6": "how",
+    "7": "are",
+    "8": "you",
+    "9": "i",
+    "10": "love",
+    "11": "goodbye",
+    "12": "morning",
+    "13": "see",
+    "14": "later",
+    "15": "hello",
+    "16": "thank"
+  }
+}

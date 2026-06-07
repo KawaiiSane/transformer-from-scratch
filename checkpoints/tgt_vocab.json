@@ -1,0 +1,38 @@
+{
+  "token2idx": {
+    "<pad>": 0,
+    "<sos>": 1,
+    "<eos>": 2,
+    "<unk>": 3,
+    "bonne": 4,
+    "nuit": 5,
+    "comment": 6,
+    "allez": 7,
+    "vous": 8,
+    "je": 9,
+    "t": 10,
+    "aime": 11,
+    "au": 12,
+    "revoir": 13,
+    "bonjour": 14,
+    "merci": 15
+  },
+  "idx2token": {
+    "0": "<pad>",
+    "1": "<sos>",
+    "2": "<eos>",
+    "3": "<unk>",
+    "4": "bonne",
+    "5": "nuit",
+    "6": "comment",
+    "7": "allez",
+    "8": "vous",
+    "9": "je",
+    "10": "t",
+    "11": "aime",
+    "12": "au",
+    "13": "revoir",
+    "14": "bonjour",
+    "15": "merci"
+  }
+}
